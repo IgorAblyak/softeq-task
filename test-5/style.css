@@ -1,0 +1,36 @@
+.container {
+  max-width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  font: 20px bold Georgia, sans-serif;
+}
+
+button {
+  margin: 50px 50px 20px;
+  font: 20px bold Georgia, sans-serif;
+  padding: 10px 30px;
+  background: transparent;
+  outline: none;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+button:hover {
+  cursor: pointer;
+  background: black;
+  color: white;
+  transition: all 0.5s ease-out;
+}
+
+button:active {
+  color: #ff4800e6;
+}
+
+.info {
+  margin-bottom: 20px;
+  color: #009fff;
+}
+
+.data {
+  color: #ff4800e6;
+}
