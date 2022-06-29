@@ -1,0 +1,18 @@
+.container {
+  max-width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  font: 20px bold Georgia, sans-serif;
+}
+
+h2 {
+  color: #5f63a0;
+}
+
+.input-array {
+  color: #a05f5f;
+}
+
+.result {
+  color: #645fa0;
+}
